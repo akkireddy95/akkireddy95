@@ -1,0 +1,32 @@
+[build]
+  command = "nuxt generate"
+  functions = "netlify/functions"
+  publish = "dist"
+
+[[redirects]]
+  from = "/calendar"
+  to = "https://cal.com/akkireddy/15min"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/newsletter"
+  to = ""
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://Akkireddy.io/notes/*"
+  to = "https://publish.obsidian.md/serve?url=Akkireddy.io/notes/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

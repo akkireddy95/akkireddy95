@@ -1,6 +1,6 @@
 ![my header image](./assets/header.png)
 
-# Hi, I'm Akkireddy👨‍💻
+## Hi, I'm Akkireddy👨‍💻
 
 - Welcome to my space on the Internet to view various topics related to the DevOps and Cloud-Native!
 

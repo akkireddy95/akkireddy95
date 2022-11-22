@@ -1,0 +1,202 @@
+[
+  {
+    "number": 1,
+    "status": "visible",
+    "icon": "lights",
+    "surprise": {
+      "text": "DevAdvent Calendar 2020",
+      "url": "https://youtu.be/DlkONFT1iRQ"
+    }
+  },
+  {
+    "number": 2,
+    "status": "visible",
+    "icon": "ornament",
+    "surprise": {
+      "text": "My Favorite Visual Studio Code Extensions",
+      "url": "https://youtu.be/WqRT2j_FB3U"
+    }
+  },
+  {
+    "number": 3,
+    "status": "visible",
+    "icon": "wreath",
+    "surprise": {
+      "text": "Why I Love CSS Modules in Vue.js",
+      "url": "https://youtu.be/ZxPTBMcaoqo"
+    }
+  },
+  {
+    "number": 4,
+    "status": "visible",
+    "icon": "candy-cane",
+    "surprise": {
+      "text": "Space Game Live Stream - Part 3",
+      "url": "https://youtu.be/0WUjgqCuoXE"
+    }
+  },
+  {
+    "number": 5,
+    "status": "visible",
+    "icon": "mistletoe",
+    "surprise": {
+      "text": "Refactoring Todo MVC in Vue 3 and Vite",
+      "url": "https://www.youtube.com/watch?v=pmokyQ9u5dY"
+    }
+  },
+  {
+    "number": 6,
+    "status": "visible",
+    "icon": "bell",
+    "surprise": {
+      "text": "Fixing a v-model in List Bug with Vue.js",
+      "url": "https://www.youtube.com/watch?v=MrvVuhbtFeE"
+    }
+  },
+  {
+    "number": 7,
+    "status": "visible",
+    "icon": "reindeer",
+    "surprise": {
+      "text": "Refactoring Peek-a-Vue into Components",
+      "url": "https://youtu.be/RCfKRA5ktBc"
+    }
+  },
+  {
+    "number": 8,
+    "status": "visible",
+    "icon": "gift-tag",
+    "surprise": {
+      "text": "Learn with Jason: Vue 3!",
+      "url": "https://www.youtube.com/watch?v=TCMuqQB94No"
+    }
+  },
+  {
+    "number": 9,
+    "status": "visible",
+    "icon": "lights",
+    "surprise": {
+      "text": "Build a Tamagotchi Clone with Vue 3 and SVGs",
+      "url": "https://www.youtube.com/watch?v=KB6CRow6Ulw"
+    }
+  },
+  {
+    "number": 10,
+    "status": "visible",
+    "icon": "ornament",
+    "surprise": {
+      "text": "Build a Tamagotchi Clone with Vue 3 and SVGs - Pt 2",
+      "url": "https://www.youtube.com/watch?v=a3n2l0MyZw8"
+    }
+  },
+  {
+    "number": 11,
+    "status": "visible",
+    "icon": "wreath",
+    "surprise": {
+      "text": "Adventures with Vue 3 & Animations: Pt 1",
+      "url": "https://www.youtube.com/watch?v=XEeeW8hOons"
+    }
+  },
+  {
+    "number": 12,
+    "status": "visible",
+    "icon": "candy-cane",
+    "surprise": {
+      "text": "Adventures w/ Vue 3 & Animations: Pt 2",
+      "url": "https://www.youtube.com/watch?v=jJ30fjcPzQA"
+    }
+  },
+  {
+    "number": 13,
+    "status": "visible",
+    "icon": "mistletoe",
+    "surprise": {
+      "text": "Vue Language Features Extension",
+      "url": "https://www.youtube.com/watch?v=0A565GidebA"
+    }
+  },
+  {
+    "number": 14,
+    "status": "visible",
+    "icon": "bell",
+    "surprise": {
+      "text": "What are Vue.js options?",
+      "url": "https://www.youtube.com/watch?v=LZ-65TjiSxI"
+    }
+  },
+  {
+    "number": 15,
+    "status": "visible",
+    "icon": "reindeer",
+    "surprise": {
+      "text": "What is the Vue.js Data Option?",
+      "url": "https://www.youtube.com/watch?v=_9W3Pg9ckQk"
+    }
+  },
+  {
+    "number": 16,
+    "status": "visible",
+    "icon": "gift-tag",
+    "surprise": {
+      "text": "Submit Your Q&As!",
+      "url": "https://twitter.com/Akkireddy/status/1339423218508173317"
+    }
+  },
+  {
+    "number": 17,
+    "status": "visible",
+    "icon": "lights",
+    "surprise": {
+      "text": "Launching with Composition API Course",
+      "url": "https://twitter.com/Akkireddy/status/1339615024814452737"
+    }
+  },
+  {
+    "number": 18,
+    "status": "visible",
+    "icon": "ornament",
+    "surprise": {
+      "text": "Gift Giveaway!",
+      "url": "https://twitter.com/Akkireddy/status/1340052310425219081"
+    }
+  },
+  {
+    "number": 19,
+    "status": "visible",
+    "icon": "wreath",
+    "surprise": {
+      "text": "Adventures with Hasura and Vue.js 3 - Part 1",
+      "url": "https://www.twitch.tv/videos/843309867"
+    }
+  },
+  {
+    "number": 20,
+    "status": "visible",
+    "icon": "candy-cane",
+    "surprise": {
+      "text": "Export CSS Variables to SFCs Tip",
+      "url": "https://twitter.com/Akkireddy/status/1340880486063869952"
+    }
+  },
+  {
+    "number": 21,
+    "status": "upcoming",
+    "icon": "mistletoe"
+  },
+  {
+    "number": 22,
+    "status": "upcoming",
+    "icon": "bell"
+  },
+  {
+    "number": 23,
+    "status": "upcoming",
+    "icon": "reindeer"
+  },
+  {
+    "number": 24,
+    "status": "upcoming",
+    "icon": "gift-tag"
+  }
+]
