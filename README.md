@@ -1,10 +1,10 @@
 # Akkireddy Challa
 
-### Multi-cloud platform engineer building reliable infrastructure for data, AI, and product teams.
+### Multi-cloud platform engineer building reliable infrastructure, open-source notes, and practical writing for data, AI, and product teams.
 
 I am based in Stockholm, Sweden and work across GCP, AWS, and Azure with a focus on platform engineering, DevOps automation, observability, and production-grade cloud foundations. I like systems that are boring in the best way: reproducible, monitored, cost-aware, and easy for teams to build on.
 
-Right now I am focused on platform infrastructure for AI exploration and model development on GCP, with a strong interest in MLOps, data platforms, and high-availability service architecture.
+Right now I am focused on platform infrastructure for AI exploration and model development on GCP, with a strong interest in MLOps, data platforms, high-availability service architecture, and writing down the engineering patterns that keep teams moving.
 
 ## What I Do Best
 
@@ -13,6 +13,7 @@ Right now I am focused on platform infrastructure for AI exploration and model d
 - Create observability foundations with Datadog, Prometheus, Grafana, CloudWatch, and Google Cloud Monitoring.
 - Support data and AI workloads with GKE, Vertex AI, BigQuery, EKS, MSK, Redshift Serverless, and AWS Glue.
 - Turn ambiguous platform needs into repeatable engineering systems that teams can actually use.
+- Maintain a public trail of projects, notes, and writing so useful knowledge stays reusable.
 
 ## Core Stack
 
@@ -32,6 +33,14 @@ Right now I am focused on platform infrastructure for AI exploration and model d
 - [Online Banking System](https://github.com/akkireddy95/Online-Banking-system) - full web application project with customer, staff, and admin flows.
 - [DevOps SRE Terminology](https://github.com/akkireddy95/DevOps-SRE-terminology) - notes and definitions across SRE and DevOps practice.
 - [Portfolio](https://akkireddy95.github.io/) - current portfolio and public professional profile.
+- [Writing](https://akkireddy95.github.io/blog.html) - practical notes on platform engineering, Terraform, observability, and AI infrastructure.
+
+## Writing
+
+- [Cloud platform operating model](https://akkireddy95.github.io/writing/cloud-platform-operating-model.html)
+- [Terraform best practices](https://akkireddy95.github.io/writing/terraform-best-practices.html)
+- [Observability foundations](https://akkireddy95.github.io/writing/observability-for-platforms.html)
+- [AI infrastructure foundations](https://akkireddy95.github.io/writing/ai-infrastructure-foundations.html)
 
 ## Certifications and Recognition
 
