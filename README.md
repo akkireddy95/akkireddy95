@@ -1,60 +1,54 @@
-# Hi there, I'm Akkireddy Challa 👋
-### Multi-Cloud Platform Engineer | Data, AI & MLOps Infrastructure
+# Akkireddy Challa
 
-Based in **Stockholm, Sweden 🇸🇪**, I specialize in designing, provisioning, and optimizing scalable, high-performance platform infrastructures across all major public clouds (**GCP, AWS, Azure**). My work bridges cloud-native architecture, MLOps, DevOps automation, and Observability to power enterprise data analytics and cutting-edge AI systems.
+### Multi-cloud platform engineer building reliable infrastructure for data, AI, and product teams.
 
-🚀 **Current Focus**: Architecting and building robust platform infrastructures for **AI exploration and model development on GCP**.
+I am based in Stockholm, Sweden and work across GCP, AWS, and Azure with a focus on platform engineering, DevOps automation, observability, and production-grade cloud foundations. I like systems that are boring in the best way: reproducible, monitored, cost-aware, and easy for teams to build on.
 
----
+Right now I am focused on platform infrastructure for AI exploration and model development on GCP, with a strong interest in MLOps, data platforms, and high-availability service architecture.
 
-### 🛠️ Tech Stack & Skills
+## What I Do Best
 
-<p align="left">
-  <!-- Cloud Providers -->
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <br/>
-  <!-- IaC & Orchestration -->
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <br/>
-  <!-- Data & AI/ML -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <br/>
-  <!-- CI/CD & Observability -->
-  <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" />
-</p>
+- Design cloud platforms that balance reliability, velocity, cost, and governance.
+- Build infrastructure with Terraform, Kubernetes, Helm, CI/CD, and automation-first workflows.
+- Create observability foundations with Datadog, Prometheus, Grafana, CloudWatch, and Google Cloud Monitoring.
+- Support data and AI workloads with GKE, Vertex AI, BigQuery, EKS, MSK, Redshift Serverless, and AWS Glue.
+- Turn ambiguous platform needs into repeatable engineering systems that teams can actually use.
 
--   **AI & Data Platforms**: GCP Vertex AI, BigQuery, GKE, AWS EKS, MSK, Redshift Serverless, AWS Glue
--   **Infrastructure as Code (IaC)**: Terraform, Helm, CloudFormation
--   **CI/CD & Automation**: GitHub Actions, GitLab CI, JFrog Artifactory, Jenkins, Python, Bash
--   **Observability & Telemetry**: Datadog, Prometheus, Grafana, AWS CloudWatch, Google Cloud Monitoring
--   **FinOps & Governance**: Cost optimization, auto-scaling policies, and IAM least-privilege enforcement
+## Core Stack
 
----
+| Area | Tools |
+| --- | --- |
+| Cloud | GCP, AWS, Azure |
+| Infrastructure | Terraform, Helm, Kubernetes, Docker, CloudFormation |
+| Automation | GitHub Actions, GitLab CI, Jenkins, Python, Bash |
+| Data and AI | Vertex AI, BigQuery, GKE, EKS, MSK, Redshift Serverless, AWS Glue |
+| Observability | Datadog, Prometheus, Grafana, CloudWatch, Google Cloud Monitoring |
+| Governance | IAM, policy-as-code, cost optimization, scaling strategy |
 
-### 📜 Certifications & Achievements
+## Selected Work
 
-*   🛡️ **AWS Certified Solutions Architect — Associate** (2021)
-*   🏆 **Best Platform Engineer Award** — Talent Venture Group (2022)
+- [AWS Analytics Platform Terraform](https://github.com/akkireddy95/aws-analytics-platform-terraform) - infrastructure patterns for analytics platform delivery on AWS.
+- [DevOps Guide](https://github.com/akkireddy95/DevOps-guide) - practical DevOps learning material and command-line workflows.
+- [Online Banking System](https://github.com/akkireddy95/Online-Banking-system) - full web application project with customer, staff, and admin flows.
+- [DevOps SRE Terminology](https://github.com/akkireddy95/DevOps-SRE-terminology) - notes and definitions across SRE and DevOps practice.
+- [Portfolio](https://akkireddy95.github.io/) - current portfolio and public professional profile.
 
----
+## Certifications and Recognition
 
-### 📊 GitHub Analytics
+- AWS Certified Solutions Architect - Associate
+- Best Platform Engineer Award - Talent Venture Group
+- Master of Science in Computer Science - Blekinge Institute of Technology, Sweden
+
+## GitHub Snapshot
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akkireddy95&show_icons=true&theme=tokyonight&hide_border=true" alt="Akkireddy GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkireddy95&layout=compact&theme=tokyonight&hide_border=true" alt="Akkireddy Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akkireddy95&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Akkireddy Challa GitHub stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkireddy95&layout=compact&theme=github_dark&hide_border=true" alt="Akkireddy Challa top languages" width="350" />
 </p>
 
----
+## Connect
 
-### 📫 Connect with Me
-
-*   💼 **LinkedIn**: [linkedin.com/in/akkireddy-challa](https://www.linkedin.com/in/akkireddy-challa/)
-*   📧 **Email**: [challaakkireddy@gmail.com](mailto:challaakkireddy@gmail.com)
+- Portfolio: [akkireddy95.github.io](https://akkireddy95.github.io/)
+- LinkedIn: [linkedin.com/in/akkireddy-challa](https://www.linkedin.com/in/akkireddy-challa/)
+- GitHub: [github.com/akkireddy95](https://github.com/akkireddy95)
+- Email: [challaakkireddy@gmail.com](mailto:challaakkireddy@gmail.com)
