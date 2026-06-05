@@ -28,14 +28,11 @@ So, thankfully my GitHub contribution graph has a fair amount of variance in the
 
 ## Contribution Square Legend
 
-<!-- TODO: FIX -->
-<!-- <ul style="padding-left: 0">
-  <li v-for="item in this.$frontmatter.commitLegend"
-    style="padding: 5px 15px; display: flex; align-items: center; margin-left: 0">
-    <div :style="`background-color: ${item.color}; width: 50px; height: 50px; margin-right: 15px`"></div>
-    <p>{{ item.numberOfCommits }} commits: <code>{{ item.color }}</code></p>
-  </li>
-</ul> -->
+- `0` commits: `#ebedf0`
+- `1-6` commits: `#c6e48b`
+- `7-13` commits: `#7bc96f`
+- `14-19` commits: `#239a3b`
+- `20+` commits: `#196127`
 
 ## Contributions Are Not Created Equal
 
