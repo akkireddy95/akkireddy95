@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akkireddy Challa — Writing</title>
+    <link>https://akkireddy95.github.io/blog.html</link>
+    <description>Engineering notes from cloud, DevOps, SRE, and AI platform work.</description>
+    <language>en-gb</language>
+    <atom:link href="https://akkireddy95.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Practical infrastructure foundations for AI teams</title>
+      <link>https://akkireddy95.github.io/writing/ai-infrastructure-foundations.html</link>
+      <guid>https://akkireddy95.github.io/writing/ai-infrastructure-foundations.html</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Governed environments, scalable compute, artifact paths, cost controls, and deployment foundations.</description>
+    </item>
+
+    <item>
+      <title>Observability foundations for platform teams</title>
+      <link>https://akkireddy95.github.io/writing/observability-for-platforms.html</link>
+      <guid>https://akkireddy95.github.io/writing/observability-for-platforms.html</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>How to move from dashboards to signals, ownership, and reliable incident response.</description>
+    </item>
+
+    <item>
+      <title>Terraform best practices I keep coming back to</title>
+      <link>https://akkireddy95.github.io/writing/terraform-best-practices.html</link>
+      <guid>https://akkireddy95.github.io/writing/terraform-best-practices.html</guid>
+      <pubDate>Mon, 05 May 2026 00:00:00 +0000</pubDate>
+      <description>Patterns for state, modules, reviews, naming, and repeatable infrastructure delivery.</description>
+    </item>
+
+    <item>
+      <title>How I think about building a cloud platform operating model</title>
+      <link>https://akkireddy95.github.io/writing/cloud-platform-operating-model.html</link>
+      <guid>https://akkireddy95.github.io/writing/cloud-platform-operating-model.html</guid>
+      <pubDate>Fri, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <description>A practical model for reliability, delivery speed, IAM, observability, and cost ownership.</description>
+    </item>
+
+  </channel>
+</rss>
