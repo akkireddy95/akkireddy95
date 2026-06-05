@@ -1,53 +1,40 @@
 # Hi there, I'm Akkireddy Challa 👋
-### Platform Engineer | Data & Machine Learning Infrastructure
+### Multi-Cloud Platform Engineer | Data, AI & MLOps Infrastructure
 
-Based in **Stockholm, Sweden 🇸🇪**, I specialize in designing, building, and optimizing scalable, high-performance data platforms on AWS. My work integrates cloud-native infrastructure, DevOps automation, CI/CD, Observability, and FinOps to enable seamless data operations, AI/ML pipelines, and real-time streaming at enterprise scale.
+Based in **Stockholm, Sweden 🇸🇪**, I specialize in designing, provisioning, and optimizing scalable, high-performance platform infrastructures across all major public clouds (**GCP, AWS, Azure**). My work bridges cloud-native architecture, MLOps, DevOps automation, and Observability to power enterprise data analytics and cutting-edge AI systems.
 
-Currently working as an **AWS Analytics Platform Engineer @ Telia Company AB**.
+🚀 **Current Focus**: Architecting and building robust platform infrastructures for **AI exploration and model development on GCP**.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" width="48" height="48" alt="AWS" />
-      <br />AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" width="48" height="48" alt="Kubernetes" />
-      <br />Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" width="48" height="48" alt="Terraform" />
-      <br />Terraform
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" width="48" height="48" alt="Docker" />
-      <br />Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github_actions.png" width="48" height="48" alt="GitHub Actions" />
-      <br />CI/CD
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/prometheus.png" width="48" height="48" alt="Prometheus" />
-      <br />Monitoring
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- Cloud Providers -->
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <br/>
+  <!-- IaC & Orchestration -->
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <br/>
+  <!-- Data & AI/ML -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <br/>
+  <!-- CI/CD & Observability -->
+  <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" />
+</p>
 
-*   **Cloud Infrastructure**: AWS (Lambda, Redshift, Glue, API Gateway, Lake Formation, ECS), Azure
-*   **Infrastructure as Code (IaC)**: Terraform, Helm, CloudFormation
-*   **Kubernetes & Containers**: EKS, Docker, ECS, Helm charts
-*   **CI/CD & Automation**: GitHub Actions, JFrog Artifactory, Jenkins, Bash, Python
-*   **Observability & Telemetry**: Datadog, Prometheus, Grafana, AWS CloudWatch
-*   **FinOps**: Cloud cost management, resource optimization, and auto-scaling policies
+-   **AI & Data Platforms**: GCP Vertex AI, BigQuery, GKE, AWS EKS, MSK, Redshift Serverless, AWS Glue
+-   **Infrastructure as Code (IaC)**: Terraform, Helm, CloudFormation
+-   **CI/CD & Automation**: GitHub Actions, GitLab CI, JFrog Artifactory, Jenkins, Python, Bash
+-   **Observability & Telemetry**: Datadog, Prometheus, Grafana, AWS CloudWatch, Google Cloud Monitoring
+-   **FinOps & Governance**: Cost optimization, auto-scaling policies, and IAM least-privilege enforcement
 
 ---
 
