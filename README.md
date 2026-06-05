@@ -1,63 +1,75 @@
-# Akkireddy Challa
+# Akki Reddy · Platform Engineer
 
-### Multi-cloud platform engineer building reliable infrastructure, open-source notes, and practical writing for data, AI, and product teams.
+> Multi-cloud platform engineer based in Stockholm, Sweden — building high-availability
+> infrastructure, developer platforms, and AI-ready systems with automation and continuous deployment.
 
-I am based in Stockholm, Sweden and work across GCP, AWS, and Azure with a focus on platform engineering, DevOps automation, observability, and production-grade cloud foundations. I like systems that are boring in the best way: reproducible, monitored, cost-aware, and easy for teams to build on.
+---
 
-Right now I am focused on platform infrastructure for AI exploration and model development on GCP, with a strong interest in MLOps, data platforms, high-availability service architecture, and writing down the engineering patterns that keep teams moving.
+## 🔧 Current focus
 
-## What I Do Best
+- **Platform Engineering** — Internal developer platforms, golden paths, self-service infrastructure
+- **Cloud Architecture** — AWS, GCP, multi-cloud patterns, landing zones, Terraform IaC
+- **Kubernetes & Reliability** — Production-grade clusters, SRE practices, incident engineering
+- **Observability** — Datadog, Grafana, Prometheus, OpenTelemetry, cost-aware infra
+- **AI Infrastructure** — MLOps pipelines, data platforms, AI-ready cloud foundations
 
-- Design cloud platforms that balance reliability, velocity, cost, and governance.
-- Build infrastructure with Terraform, Kubernetes, Helm, CI/CD, and automation-first workflows.
-- Create observability foundations with Datadog, Prometheus, Grafana, CloudWatch, and Google Cloud Monitoring.
-- Support data and AI workloads with GKE, Vertex AI, BigQuery, EKS, MSK, Redshift Serverless, and AWS Glue.
-- Turn ambiguous platform needs into repeatable engineering systems that teams can actually use.
-- Maintain a public trail of projects, notes, and writing so useful knowledge stays reusable.
+---
 
-## Core Stack
+## 🚀 Featured projects
 
-| Area | Tools |
-| --- | --- |
-| Cloud | GCP, AWS, Azure |
-| Infrastructure | Terraform, Helm, Kubernetes, Docker, CloudFormation |
-| Automation | GitHub Actions, GitLab CI, Jenkins, Python, Bash |
-| Data and AI | Vertex AI, BigQuery, GKE, EKS, MSK, Redshift Serverless, AWS Glue |
-| Observability | Datadog, Prometheus, Grafana, CloudWatch, Google Cloud Monitoring |
-| Governance | IAM, policy-as-code, cost optimization, scaling strategy |
+| Project | Stack | Description |
+|---|---|---|
+| [aws-analytics-platform-terraform](https://github.com/akkireddy95/aws-analytics-platform-terraform) | HCL / AWS | Terraform foundations for a scalable analytics platform |
+| [akkireddy95.github.io](https://github.com/akkireddy95/akkireddy95.github.io) | HTML / GitHub Pages | Portfolio, writing hub, and engineering notes |
+| [DevOps-guide](https://github.com/akkireddy95/DevOps-guide) | Shell / Markdown | DevOps tutorials and automation examples for beginners |
+| [Online-Banking-system](https://github.com/akkireddy95/Online-Banking-system) | PHP / MySQL | Full-stack banking system — 107 ⭐ community project |
 
-## Selected Work
+---
 
-- [AWS Analytics Platform Terraform](https://github.com/akkireddy95/aws-analytics-platform-terraform) - infrastructure patterns for analytics platform delivery on AWS.
-- [DevOps Guide](https://github.com/akkireddy95/DevOps-guide) - practical DevOps learning material and command-line workflows.
-- [Online Banking System](https://github.com/akkireddy95/Online-Banking-system) - full web application project with customer, staff, and admin flows.
-- [DevOps SRE Terminology](https://github.com/akkireddy95/DevOps-SRE-terminology) - notes and definitions across SRE and DevOps practice.
-- [Portfolio](https://akkireddy95.github.io/) - current portfolio and public professional profile.
-- [Writing](https://akkireddy95.github.io/blog.html) - practical notes on platform engineering, Terraform, observability, and AI infrastructure.
+<!-- dynamic:activity:start -->
+## 📡 Current output
 
-## Writing
+This section refreshes automatically every day via GitHub Actions.
 
-- [Cloud platform operating model](https://akkireddy95.github.io/writing/cloud-platform-operating-model.html)
-- [Terraform best practices](https://akkireddy95.github.io/writing/terraform-best-practices.html)
-- [Observability foundations](https://akkireddy95.github.io/writing/observability-for-platforms.html)
-- [AI infrastructure foundations](https://akkireddy95.github.io/writing/ai-infrastructure-foundations.html)
+### Latest blog posts
+- No blog feed configured yet — add `BLOG_FEED_URL` in Actions variables to enable.
 
-## Certifications and Recognition
+### Latest vlogs
+- No vlog feed configured yet — add `VLOG_FEED_URL` in Actions variables to enable.
 
-- AWS Certified Solutions Architect - Associate
-- Best Platform Engineer Award - Talent Venture Group
-- Master of Science in Computer Science - Blekinge Institute of Technology, Sweden
+### Recent project updates
+- [aws-analytics-platform-terraform](https://github.com/akkireddy95/aws-analytics-platform-terraform) — Terraform analytics platform (updated 2026-06-05)
+- [akkireddy95.github.io](https://github.com/akkireddy95/akkireddy95.github.io) — Portfolio and writing hub (updated 2026-06-05)
+- [akkireddy95](https://github.com/akkireddy95/akkireddy95) — Profile automation (updated 2026-06-05)
 
-## GitHub Snapshot
+_Last refreshed: 2026-06-05 UTC_
+<!-- dynamic:activity:end -->
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akkireddy95&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Akkireddy Challa GitHub stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkireddy95&layout=compact&theme=github_dark&hide_border=true" alt="Akkireddy Challa top languages" width="350" />
-</p>
+---
 
-## Connect
+## 🛠️ Tech stack
 
-- Portfolio: [akkireddy95.github.io](https://akkireddy95.github.io/)
-- LinkedIn: [linkedin.com/in/akkireddy-challa](https://www.linkedin.com/in/akkireddy-challa/)
-- GitHub: [github.com/akkireddy95](https://github.com/akkireddy95)
-- Email: [challaakkireddy@gmail.com](mailto:challaakkireddy@gmail.com)
+**Cloud & IaC:** AWS · GCP · Azure · Terraform · Pulumi · CloudFormation
+**Containers & Orchestration:** Kubernetes · Helm · ArgoCD · Kustomize · Docker
+**CI/CD:** GitHub Actions · Jenkins · GitLab CI · Tekton
+**Observability:** Datadog · Grafana · Prometheus · OpenTelemetry · Jaeger
+**Languages:** Python · Shell · Go · HCL · SQL
+**Data & AI:** Spark · Airflow · dbt · MLflow · Feast
+
+---
+
+## 📝 Writing & links
+
+- 🌐 Website: [akkireddy1.github.io](https://akkireddy1.github.io)
+- 💼 GitHub: [github.com/akkireddy95](https://github.com/akkireddy95)
+- 📧 Email: [challaakkireddy@gmail.com](mailto:challaakkireddy@gmail.com)
+- 📍 Location: Stockholm, Sweden
+
+---
+
+## 💡 Engineering principles
+
+- Build systems that are **observable, repeatable, and resilient**
+- Prefer **automation over toil** at every level of the stack
+- Turn operational experience into **reusable public artifacts**
+- Document what you build so others can build on it
