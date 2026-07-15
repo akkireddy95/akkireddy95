@@ -111,3 +111,20 @@ _Updated automatically every day via GitHub Actions._
 
 _Last refreshed: 2026-07-15 UTC_
 <!-- dynamic:activity:end -->
+
+
+---
+
+## 📌 Code Snippets & Gists
+
+Here are some public code snippets I've shared from real-world platform engineering work:
+
+| Snippet | Description |
+|---------|-------------|
+| [k8s-multitenant-namespace.yaml](https://gist.github.com/akkireddy-challa/826f4d95e27436ffdc82d032141a7f0b) | Kubernetes multi-tenant namespace template with ResourceQuota, LimitRange and NetworkPolicy |
+| [python-cicd-pipeline.yml](https://gist.github.com/akkireddy-challa/dd310686a746c07175a808a9888c4133) | GitHub Actions CI/CD pipeline for Python microservices with Docker, testing, and security scanning |
+| [eks-cluster.tf](https://gist.github.com/akkireddy-challa/6669fd672d5edea043d65e121b52a851) | Terraform module for production-grade AWS EKS cluster with managed node groups, IRSA, and add-ons |
+| [slo-alerting-rules.yaml](https://gist.github.com/akkireddy-challa/1bfbe29b40794d61029512da80d7a01b) | Prometheus alerting rules for SLO/SLA monitoring - availability, latency, and error rate alerts |
+| [aws_cost_optimizer.py](https://gist.github.com/akkireddy-challa/03a8091046fd13cfa6b73056d8cc4af7) | Python script to identify and clean up unused AWS resources for cost optimization |
+
+> View all snippets: [gist.github.com/akkireddy-challa](https://gist.github.com/akkireddy-challa)
