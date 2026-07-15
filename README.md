@@ -6,24 +6,24 @@ My mission is to make data and AI development faster, safer, and more scalable b
 
 Before specialising in platform engineering, I spent 4+ years as Head of DevOps at Talent Venture Group, building cloud-native infrastructure and DevSecOps pipelines across multiple clients. I hold a Master's in Computer Science from Blekinge Institute of Technology and published research on [handwritten digit recognition using ML](http://urn.kb.se/resolve?urn=urn:nbn:se:bth-17656).
 
-I'm currently building **Agentic AI infrastructure on GCP** — working with Vertex AI, AlloyDB, Model Armor, LiteLLM, and Redis to deliver production-grade AI agent use cases at scale.
+I'm currently building **Agentic AI infrastructure** across **AWS, GCP & Azure** — working with LiteLLM, OpenWebUI, Azure AI Foundry, Model Armor, 
 
 ---
 
 ## 🔧 What I do
 
-- **Design and operate Kubernetes-based data/AI platforms on AWS** — multi-tenant, secure, and cost-optimized
+- **Design and operate multi-cloud platforms on AWS, GCP & Azure** — Kubernetes, EKS, GKE, AKS, multi-tenant, secure, cost-optimised
 - **Enable data scientists and ML engineers** with CI/CD, MLOps, observability, and golden paths for data products and models
 - **Automate infrastructure** with Terraform, GitOps (GitHub Actions), and policy-as-code to keep platforms reliable and compliant
 - **Drive FinOps initiatives** to optimize cloud spend while maintaining performance
-- **Build Agentic AI infrastructure** on GCP leveraging Vertex AI, AlloyDB, Model Armor, LiteLLM, and Redis
+- **Deploy and manage LLM platforms** — LiteLLM, OpenWebUI, Azure AI Foundry (Phoenix), Vertex AI, Model Armor, with SSO via Azure Entra ID App Registrations
 
 ---
 
 ## 🛠️ Technologies
 
 **Cloud & IaC**
-AWS (EKS, Lambda, S3, RDS, IAM) · GCP (Vertex AI, AlloyDB) · Azure · Terraform · Pulumi · CDK
+AWS (EKS, Lambda, S3, RDS, IAM, EC2, VPC) · GCP (Vertex AI, AlloyDB, GKE) · Azure (AKS, Entra ID, App Registrations, Azure AI Foundry) · Terraform · Pulumi · CDK
 
 **Containers & Orchestration**
 Kubernetes · Helm · ArgoCD · Kustomize · Docker
@@ -35,7 +35,13 @@ GitHub Actions · Jenkins · GitLab CI · JFrog · Tekton
 Datadog · Grafana · Prometheus · OpenTelemetry · Jaeger
 
 **Data & AI/ML**
-Apache Spark · Airflow · dbt · MLflow · Feast · LiteLLM · Redis
+Apache Spark · Airflow · dbt · MLflow · Feast · LiteLLM · OpenWebUI · Redis · Hinode
+
+**Identity & Security**
+Azure Entra ID · App Registrations · OAuth 2.0 / OIDC · RBAC · AWS IAM · OPA / Kyverno
+
+**LLM & AI Platforms**
+Azure AI Foundry · Azure OpenAI · LiteLLM · OpenWebUI · Vertex AI · Model Armor · AlloyDB · Hinode
 
 **Languages**
 Python · Shell · Go · HCL · SQL
