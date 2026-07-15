@@ -1,4 +1,4 @@
-# Hello, I'm Akkireddy (Akki) 👋
+# Hello, I'm Akkireddy Challa 👋
 
 I'm a **Platform Engineer at [Telia](https://www.telia.se/)** based in Stockholm, Sweden — building scalable, self-service cloud infrastructure for data and AI/ML teams.
 
@@ -46,17 +46,17 @@ Python · Shell · Go · HCL · SQL
 
 | Project | Stack | Description |
 |---|---|---|
-| [aws-analytics-platform-terraform](https://github.com/akkireddy95/aws-analytics-platform-terraform) | HCL / AWS | Terraform foundations for a scalable analytics platform |
-| [akkireddy95.github.io](https://github.com/akkireddy95/akkireddy95.github.io) | HTML / GitHub Pages | Portfolio and engineering writing hub |
-| [DevOps-guide](https://github.com/akkireddy95/DevOps-guide) | Shell / Markdown | DevOps tutorials and automation examples |
-| [Online-Banking-system](https://github.com/akkireddy95/Online-Banking-system) | PHP / MySQL | Full-stack banking system — 107 ⭐ community project |
+| [aws-analytics-platform-terraform](https://github.com/akkireddy-challa/aws-analytics-platform-terraform) | HCL / AWS | Terraform foundations for a scalable analytics platform |
+| [akkireddy-challa.github.io](https://github.com/akkireddy-challa/akkireddy-challa.github.io) | HTML / GitHub Pages | Portfolio and engineering writing hub |
+| [DevOps-guide](https://github.com/akkireddy-challa/DevOps-guide) | Shell / Markdown | DevOps tutorials and automation examples |
+| [Online-Banking-system](https://github.com/akkireddy-challa/Online-Banking-system) | PHP / MySQL | Full-stack banking system — 107 ⭐ community project |
 
 ---
 
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akkireddy_Challa-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/akkireddy-challa/)
-[![Blog](https://img.shields.io/badge/Blog-akkireddy95.github.io-000000?style=flat&logo=github)](https://akkireddy95.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-akkireddy--challa.github.io-000000?style=flat&logo=github)](https://akkireddy-challa.github.io/)
 
 ---
 
@@ -66,7 +66,7 @@ Python · Shell · Go · HCL · SQL
 _Updated automatically every day via GitHub Actions._
 
 ### 🖊️ Latest writing
-- [Build MCP skills for AI assistants](https://akkireddy95.github.io/writing/mcp-skills-for-ai.html) (2026-06-05) — A practical guide to building MCP skills for AI assistants, including design, prompts, and…
-- [Run AI models locally with OpenLLM](https://akkireddy95.github.io/writing/openllm-local-ai-models.html) (2026-06-05) — A practical guide to running AI models locally with OpenLLM and open-source tooling for inference.
-- [AI Ops trends to watch in 2026](https://akkireddy95.github.io/writing/trending-ai-ops-2026.html) (2026-06-05) — Model accountability…
+- [Build MCP skills for AI assistants](https://akkireddy-challa.github.io/writing/mcp-skills-for-ai.html) (2026-06-05) — A practical guide to building MCP skills for AI assistants, including design, prompts, and…
+- [Run AI models locally with OpenLLM](https://akkireddy-challa.github.io/writing/openllm-local-ai-models.html) (2026-06-05) — A practical guide to running AI models locally with OpenLLM and open-source tooling for inference.
+- [AI Ops trends to watch in 2026](https://akkireddy-challa.github.io/writing/trending-ai-ops-2026.html) (2026-06-05) — Model accountability…
 <!-- dynamic:activity:end -->
