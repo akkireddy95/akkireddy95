@@ -19,10 +19,14 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Run README generator
         env:
-          BLOG_FEED_URL: https://akkireddy95.github.io/feed.xml
+          BLOG_FEED_URL: https://akkireddy-challa.github.io/feed.xml
           MAX_ITEMS: "5"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 generate_readme.py
 
