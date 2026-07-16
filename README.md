@@ -72,11 +72,7 @@ Python · Shell · Go · HCL · SQL
 _Updated automatically every day via GitHub Actions._
 
 ### Latest writing
-- [Build MCP skills for AI assistants](https://akkireddy95.github.io/writing/mcp-skills-for-ai.html) (2026-06-05) - A practical guide to building MCP skills for AI assistants, including design, prompts, and...
-- [Run AI models locally with OpenLLM](https://akkireddy95.github.io/writing/openllm-local-ai-models.html) (2026-06-05) - A practical guide to running AI models locally with OpenLLM and open-source tooling for inference.
-- [AI Ops trends to watch in 2026](https://akkireddy95.github.io/writing/trending-ai-ops-2026.html) (2026-06-05) - Model reproducibility, observability, governance, and cost-aware model lifecycle management.
-- [Cloud cost optimization patterns for 2026](https://akkireddy95.github.io/writing/cloud-cost-optimization-2026.html) (2026-06-05) - Autoscaling economics, spot/preemptible strategies, and telemetry-driven rightsizing.
-- [Kubernetes security priorities for 2026](https://akkireddy95.github.io/writing/k8s-security-2026.html) (2026-06-05) - Supply chain hardening, RBAC least-privilege, and runtime protection approaches.
+- No articles yet.
 
 ### Recent project activity
 - [k8s-mcp-server](https://github.com/akkireddy-challa/k8s-mcp-server) - Model Context Protocol (MCP) server for debugging, analyzing, and diagnosing Kubernetes clusters directly from AI agents. _(updated 2026-07-15)_
@@ -102,11 +98,7 @@ _Last refreshed: 2026-07-16 UTC_
 _Updated automatically every day via GitHub Actions._
 
 ### Latest writing
-- [Build MCP skills for AI assistants](https://akkireddy95.github.io/writing/mcp-skills-for-ai.html) (2026-06-05) - A practical guide to building MCP skills for AI assistants, including design, prompts, and...
-- [Run AI models locally with OpenLLM](https://akkireddy95.github.io/writing/openllm-local-ai-models.html) (2026-06-05) - A practical guide to running AI models locally with OpenLLM and open-source tooling for inference.
-- [AI Ops trends to watch in 2026](https://akkireddy95.github.io/writing/trending-ai-ops-2026.html) (2026-06-05) - Model reproducibility, observability, governance, and cost-aware model lifecycle management.
-- [Cloud cost optimization patterns for 2026](https://akkireddy95.github.io/writing/cloud-cost-optimization-2026.html) (2026-06-05) - Autoscaling economics, spot/preemptible strategies, and telemetry-driven rightsizing.
-- [Kubernetes security priorities for 2026](https://akkireddy95.github.io/writing/k8s-security-2026.html) (2026-06-05) - Supply chain hardening, RBAC least-privilege, and runtime protection approaches.
+- No articles yet.
 
 ### Recent project activity
 - [k8s-mcp-server](https://github.com/akkireddy-challa/k8s-mcp-server) - Model Context Protocol (MCP) server for debugging, analyzing, and diagnosing Kubernetes clusters directly from AI agents. _(updated 2026-07-15)_
