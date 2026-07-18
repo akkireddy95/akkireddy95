@@ -49,14 +49,21 @@ published research on [handwritten digit recognition using ML](http://urn.kb.se/
 | [aws-analytics-platform-terraform](https://github.com/akkireddy-challa/aws-analytics-platform-terraform) | Terraform foundations for a scalable, secure AWS analytics platform |
 | [akkireddy-challa.github.io](https://akkireddy-challa.github.io/) | Portfolio and writing on platform engineering, SRE, and AI infrastructure |
 | [DevOps-guide](https://github.com/akkireddy-challa/DevOps-guide) | Practical DevOps concepts, tools, and automation examples |
+| [azure-mcp-platform](https://github.com/akkireddy-challa/azure-mcp-platform) | MCP server for Azure Resource Manager, AKS, and AI Foundry management |
+| [grafana-mcp-observability](https://github.com/akkireddy-challa/grafana-mcp-observability) | MCP server for Grafana dashboards, alerts, and datasource management |
+| [phoenix-mcp-eval](https://github.com/akkireddy-challa/phoenix-mcp-eval) | MCP server for Arize Phoenix LLM tracing, evaluation, and dataset management |
 
 ---
 
 ## Open source
 
-I am actively contributing in the Kubernetes, GitOps, AI platform, and
-observability ecosystems — especially production-grade AI infrastructure,
-secure agentic workflows, and developer self-service platforms.
+I am actively contributing in the Kubernetes, GitOps, AI platform, and observability ecosystems — especially production-grade AI infrastructure, secure agentic workflows, and developer self-service platforms.
+
+I maintain a growing MCP (Model Context Protocol) ecosystem enabling AI agents to operate on real infrastructure:
+- **[k8s-mcp-server](https://github.com/akkireddy-challa/k8s-mcp-server)** — Read-only Kubernetes diagnostics
+- **[azure-mcp-platform](https://github.com/akkireddy-challa/azure-mcp-platform)** — Azure Resource Manager, AKS & AI Foundry
+- **[grafana-mcp-observability](https://github.com/akkireddy-challa/grafana-mcp-observability)** — Grafana dashboards, alerts & datasources
+- **[phoenix-mcp-eval](https://github.com/akkireddy-challa/phoenix-mcp-eval)** — Arize Phoenix LLM tracing & evaluation
 
 ---
 
